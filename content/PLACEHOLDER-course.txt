@@ -1,0 +1,81 @@
+Formation Cake Design — Contenu de la formation (EXEMPLE PLACEHOLDER)
+
+Ce fichier est un exemple de contenu à ingérer dans Pinecone pour la formation.
+Remplacez ce fichier par le vrai contenu de votre formation.
+Le nom du fichier doit correspondre à l'UUID de la formation dans la base de données.
+Exemple : si le course_id est "550e8400-e29b-41d4-a716-446655440000",
+le fichier doit s'appeler content/550e8400-e29b-41d4-a716-446655440000.txt
+
+=============================================================================
+
+MODULE 1 : LES BASES DU CAKE DESIGN
+
+Le cake design est l'art de décorer des gâteaux de manière artistique et créative.
+Cette formation vous apprendra toutes les techniques professionnelles pour créer
+des gâteaux magnifiques, de la couverture en pâte à sucre aux finitions délicates.
+
+Dans ce module, vous apprendrez :
+- La préparation et le lissage du gâteau avant décoration
+- Les différents types de pâte à sucre et leur utilisation
+- Comment couvrir un gâteau parfaitement sans bulles ni plis
+- Les outils indispensables pour débuter (lisseur, rouleau, spatule)
+
+=============================================================================
+
+MODULE 2 : LA PÂTE À SUCRE
+
+La pâte à sucre (aussi appelée fondant) est le matériau de base du cake design.
+Elle se compose de sucre glace, de glucose, de gélatine et de glycérine.
+On peut la colorer avec des colorants alimentaires en gel pour obtenir
+toutes les nuances souhaitées.
+
+Conseils pour travailler la pâte à sucre :
+- Travailler dans un environnement sec (éviter l'humidité)
+- La conserver dans du film plastique à l'abri de l'air
+- La réchauffer légèrement entre les mains avant de l'étaler
+- Toujours fariner légèrement le plan de travail avec de la maïzena
+
+=============================================================================
+
+MODULE 3 : LES FLEURS EN SUCRE
+
+Les fleurs en sucre sont l'élément décoratif le plus prisé du cake design.
+Roses, pivoines, anémones, dahlias... Vous apprendrez à créer des fleurs
+réalistes qui semblent fraîches et délicates.
+
+Matériaux utilisés :
+- Pâte à fleurs (plus fine et plus flexible que la pâte à sucre)
+- Emporte-pièces en forme de pétales
+- Tapis de veinage pour texturer les pétales
+- Colorants en poudre pour shading et ombres
+
+=============================================================================
+
+MODULE 4 : TECHNIQUES AVANCÉES
+
+Une fois les bases maîtrisées, découvrez les techniques qui feront vraiment
+la différence dans vos créations :
+
+Effet marbre : mélange délicat de deux couleurs de pâte à sucre roulées
+ensemble pour créer un effet naturel et élégant.
+
+Effet velours (spray velours) : utilisation d'un pistolet à air comprimé
+avec du beurre de cacao coloré pour créer une texture mate et veloutée.
+
+Peinture sur sucre : utiliser des colorants dilués dans de l'alcool alimentaire
+pour peindre directement sur le gâteau comme sur une toile.
+
+=============================================================================
+
+INFORMATIONS PRATIQUES
+
+Durée de la formation : 6 semaines de contenu, accessible à vie
+Format : vidéos HD + fiches PDF téléchargeables + groupe de support privé
+Niveau requis : aucune expérience préalable nécessaire
+Matériel : liste complète fournie dans le module 1
+
+Questions fréquentes :
+- La formation est-elle adaptée aux débutants ? Oui, absolument.
+- Y a-t-il une date de début ? Non, vous commencez quand vous voulez.
+- Les vidéos sont-elles téléchargeables ? Oui, toutes les vidéos peuvent être téléchargées.
+- Y a-t-il un suivi personnalisé ? Oui, via le groupe Telegram privé.

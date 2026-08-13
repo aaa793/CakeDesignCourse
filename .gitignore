@@ -1,0 +1,22 @@
+# Dépendances Node
+node_modules/
+
+# Secrets — NE JAMAIS committer
+.env.local
+.env
+
+# Build Next.js
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
